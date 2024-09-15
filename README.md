@@ -2,7 +2,7 @@
 Perkenalkan nama saya **Naufal Rafid Muhamamd Faddila**.<br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](linkedin.com/in/naufal-rafid-6822911a3)ku ya.
 
-### Tech Stack
+### Languages
 
 <a href="https://isocpp.org/"><img align="left" alt="C++" title="C++" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /></a>
 <a href="https://www.java.com/"><img align="left" alt="Java" title="Java" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" /></a>
