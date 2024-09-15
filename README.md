@@ -1,6 +1,13 @@
 ## Hi there 👋
 Perkenalkan nama saya **Naufal Rafid Muhamamd Faddila**.<br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](linkedin.com/in/naufal-rafid-6822911a3)ku ya.
+
+<p align="left">
+<a href="https://github.com/NaufalR12">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaufalR12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaufalR12&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--
 **NaufalR12/NaufalR12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
