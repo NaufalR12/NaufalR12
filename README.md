@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Perkenalkan nama saya **Naufal Rafid Muhamamd Faddila**.<br>
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](linkedin.com/in/naufal-rafid-6822911a3)ku ya.
 <!--
 **NaufalR12/NaufalR12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
