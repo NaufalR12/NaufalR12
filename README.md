@@ -1,7 +1,5 @@
 ## Hi there 👋
 Perkenalkan nama saya **Naufal Rafid Muhamamd Faddila**.<br>
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](linkedin.com/in/naufal-rafid-6822911a3)ku ya.
-
 ### Languages
 
 <a href="https://isocpp.org/"><img align="left" alt="C++" title="C++" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /></a>
@@ -22,17 +20,13 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](link
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaufalR12&layout=compact&theme=algolia"/>
 </a>
 </p>
-<!--
-**NaufalR12/NaufalR12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 You Can Find Me at 
+<p> 
+  <a href="https://linkedin.com/in/naufal-rafid-6822911a3" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 100px;" />
+  </a> 
+  <a href="https://www.instagram.com/naufalrafid_nr/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 100px;" />
+  </a> 
+</p>
