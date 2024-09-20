@@ -3,14 +3,30 @@ I'm Naufal Rafid Muhammad Faddila! 🎓 Informatics student at UPN 'Veteran' Yog
 
 ### Tech Stack
 
-<a href="https://isocpp.org/"><img align="left" alt="C++" title="C++" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /></a>
-<a href="https://www.java.com/"><img align="left" alt="Java" title="Java" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="left" alt="HTML" title="HTML" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" alt="CSS" title="CSS" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" /</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="JavaScript" title="JavaScript" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-<a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
-<a href="https://code.visualstudio.com/"><img align="left" alt="VS Code" title="VS Code" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" /></a>
-<a href="https://www.mysql.com/"><img align="left" alt="MySQL" title="MySQL" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" /></a>
+<a href="https://isocpp.org/">
+  <img align="left" alt="C++" title="C++" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+</a>
+<a href="https://www.java.com/">
+  <img align="left" alt="Java" title="Java" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img align="left" alt="HTML" title="HTML" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img align="left" alt="CSS" title="CSS" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img align="left" alt="JavaScript" title="JavaScript" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
+</a>
+<a href="https://www.python.org/">
+  <img align="left" alt="Python" title="Python" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+</a>
+<a href="https://code.visualstudio.com/">
+  <img align="left" alt="VS Code" title="VS Code" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
+</a>
+<a href="https://www.mysql.com/">
+  <img align="left" alt="MySQL" title="MySQL" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" />
+</a>
 
 <br>
 <br>
