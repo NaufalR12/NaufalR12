@@ -1,21 +1,4 @@
-<img width=100% title="ANONYMOUS U7P4L" alt="ANONYMOUS U7P4L" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANONYMOUS-🔰-U7P4L&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
-
-<table border="0">
- <tr>
-    <td>
-      <br>
-     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+U7P4L+1N;"/>
-     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=U7P4L-IN&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN"/>
-      <br>
-      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=U7P4L-IN&data=followers,repositories,stars,commits&theme=viridescent"/>
-    <td>
-      <img alt="gif" src="./assets/images/demon-sleyar.gif">
-   </td>  
- </tr>  
-</table>
-
-<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
-</b></h3>
+<h2 align="center">MY INFORMATION :</h3>
 
 ```go
 package main
@@ -25,20 +8,15 @@ import "fmt"
 type Person struct {
   name string
   username string
-  age int
-  hobbies []string
-  job string
+  university string
 }
 
 func main() {
   var me = new(Person)
   
-  me.name     = "U7P4L 1N"
-  me.username = "U7P4L-IN"
-  me.age      = "20"
-  me.job      = "AI developer | Web developer"
-  me.hobbies  = []string{"code", "anime", "music"," guiterist"," gaming"}
-  
+  me.name       = "Naufal Rafid Muhammad Faddila"
+  me.username   = "NaufalR12"
+  me.university = "UPN Veteran Yogyakarta"
   fmt.Println(me)
 }
 ```
@@ -50,17 +28,18 @@ func main() {
 ## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Connect With Me
 
 <p align="center">
-<a href="https://t.me/ANONYMOUS_CYBER07"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=utpalxr@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://discord.gg/th3_u7p4l"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://www.youtube.com/c/UtpalCoding"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a></br>
+  <a href="https://www.instagram.com/naufalrafid_nr/"><img title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/naufal-rafid-6822911a3/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=naufal.rafid.mf@gmail.com"><img title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-<p align="center"><a href="https://twitter.com/umo_xr"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a><a href="https://facebook.com/U7P4L.XR"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a><a href="https://instagram.com/anon___stranger"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a align="center"><a href="https://U7P4L-IN.github.io/info/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
-</a>
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time 
 
 <p align="center">
-    <a href="https://github.com/U7P4L-IN">
+    <a href="https://github.com/NaufalR12">
           <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
     <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
   </a>
