@@ -123,9 +123,12 @@ func main() {
 
 
 <p align="center">
-<a href="https://github.com/NaufalR12"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=U7P4L-IN&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=U7P4L-IN&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <a href="https://github.com/NaufalR12">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalR12&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" />
+    <img width="57%" src="https://github-readme-stats.vercel.app/api?username=NaufalR12&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
 </p>
+
 
 - Note : **Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.**
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
@@ -133,13 +136,18 @@ func main() {
 
 ### 📊 GitHub States
 <p align="center">
-<a href="https://github.com/U7P4L-IN"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=U7P4L-IN&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=U7P4L-IN&theme=dark&hide_border=false" />
- </a></p>
-<p align="center">
-<a href="https://github.com/U7P4L-IN">
-<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=U7P4L-IN&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=U7P4L-IN&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
+  <a href="https://github.com/NaufalR12">
+    <img width="35%" src="https://github-contributor-stats.vercel.app/api?username=NaufalR12&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaufalR12&theme=dark&hide_border=false" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/NaufalR12">
+    <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaufalR12&theme=dark" />
+    <img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaufalR12&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true" />
+  </a>
+</p>
+
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
